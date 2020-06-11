@@ -1,0 +1,9 @@
+
+lexer: 
+una funcion que reciba un string como parametro 
+y devuelva un arreglo de tokens
+
+
+
+
+
