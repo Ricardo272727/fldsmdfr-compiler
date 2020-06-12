@@ -5,6 +5,8 @@
 Compila desde un lenguaje llamado *fldsmdfr* a lenguaje ensamblador NASM (x86_64), basado en el compilador creado en: 
 http://blog.pucp.edu.pe/blog/tito/2019/01/09/crea-tu-propio-compilador-parte-3-inventando-un-lenguaje/ 
 
+Algunas fuentes:
+Lexer: https://en.wikipedia.org/wiki/Lexical_analysis
 
 #### Caracteristicas
 
