@@ -1,0 +1,24 @@
+{
+  "name": "sass-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sass-to-css.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ricardo272727/fldsmdfr-compiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ricardo272727/fldsmdfr-compiler/issues"
+  },
+  "homepage": "https://github.com/Ricardo272727/fldsmdfr-compiler#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
