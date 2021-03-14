@@ -1,14 +1,19 @@
 
-
-
-# Sass to css compiler 
+# Compilador scss (con flex)
 
 # In progress! ...
 
-Compilador de Sass escrito en javascript
+Ejemplo didáctico de la teoría de compiladores
+
+### Caracteristicas
+- Analizador léxico: implementado con flex
+- Analizador sintáctico: (por verse)
+
 
 ## Ejemplos
+Al final el compilador deberá de ser capaz de convertir el código scss a código css:
 
+Entrada:
 ```
 $bg: green;
 .className{
@@ -23,10 +28,7 @@ $bg: green;
 }
 ```
 
-
-
-Se compila a:
-
+Salida:
 ```
 .className h1{
   background: red;
